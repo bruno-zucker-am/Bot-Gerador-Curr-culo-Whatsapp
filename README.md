@@ -1,4 +1,4 @@
-# Bot Currículo WhatsApp
+# Bot-Gerador-Currículo-Whatsapp
 
 Bot para geração de currículos profissionais via WhatsApp com pagamento via Pix — rodando em VPS Linux Ubuntu 22.
 
